@@ -1,6 +1,10 @@
 # Binary-Trees
 Create a binary tree from a given Boolean function 
 
+To compile, enter on command line: g++ main.cpp -o main 
+
+To run, enter on command line: ./main
+
 With a specified Boolean function, the program takes as inputs the values of X1, X2...XN which would produce a 1 in the truth table. 
 
 For example, for X1 & X2: the input vector would be 11 because they 1 & 1 = 1. 
